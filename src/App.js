@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import './App.css';
 import './Person/Person.css'
 import Person from './Person/Person';
-import { doesNotReject } from 'assert';
+// import { doesNotReject } from 'assert';
 
 class App extends Component {
   state = {
