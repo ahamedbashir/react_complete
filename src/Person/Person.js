@@ -1,5 +1,5 @@
 import React from 'react';
-import { builtinModules } from 'module';
+// import { builtinModules } from 'module';
 
 const person = (props) => {
     return (
